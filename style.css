@@ -1,0 +1,110 @@
+/* -- General --*/
+
+body {
+  background-color: #DADADA;
+}
+header {
+    background-color: #778899;
+  margin-bottom: 60px;
+}
+.logo{
+  font: 'Open sans';
+  font-size: 50px;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: 14px;
+}
+img {
+  width:400px;
+  height:500px;
+  margin-left: 90px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+/*-- text next to image --*/
+.item h1 {
+  font-weight: normal;
+}
+.item p {
+  font-size: 22px;
+}
+.item{
+  margin-bottom: 20%;
+  padding: 40px 20px ;
+
+  }
+.group {
+  display: inline-flex;
+}
+/* -- start of about me --*/
+section h2, p {
+  font: 'Open Sans';
+  font-size: 24px;
+}
+.new {
+margin-top: 20px;
+background-color: #778899;
+}
+.new h2{
+  margin-right: 20px;
+  font-weight: normal;
+  font-size: 34px;
+}
+h2.about {
+  margin-left: 100px;
+  margin-top: 50px;
+  padding: 40px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+section.new{
+  margin-bottom: 60px;
+}
+.developer{
+  margin-left: 120px;
+}
+p.gym{
+margin-left: 120px;
+}
+ol{
+  margin-left: 120px;
+  font-size: 24px;
+  padding-bottom: 20px;
+
+}
+li{
+  margin: 10px 0;
+
+}
+/*-- contact info --*/
+p.info{
+ padding-left:45%;
+ font-size: 30px;
+}
+.web1{
+padding-right: 50%;
+font-size:24px;
+display: inline;
+flex-direction: column
+}
+a.web2{
+ margin-left: 50%;
+  font-size: 24px;
+}
+ul {
+padding-left:43%;
+list-style-type: none;
+display: inline-flex;
+}
+/*--footer--*/
+h3{
+padding-left: 43.5%;
+background-color: #778899;
+font-weight: normal;
+padding-bottom: 40px;
+padding-top: 40px;
+font-size: 20px;
+}
