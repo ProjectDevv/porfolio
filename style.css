@@ -80,7 +80,7 @@ li{
 
 }
 /*-- contact info --*/
-p.info{
+h2.info{
  padding-left:45%;
  font-size: 30px;
 }
