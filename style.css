@@ -40,7 +40,7 @@ img {
 }
 /* -- start of about me --*/
 section h2, p {
-  font: 'Open Sans';
+  font-family: 'Open Sans';
   font-size: 24px;
 }
 .new {
