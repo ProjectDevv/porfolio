@@ -83,20 +83,40 @@ h2.info{
  padding-left:45%;
  font-size: 30px;
 }
+ul {
+padding-left:43%;
+list-style-type: none;
+display: inline-flex;
+}
 .web1{
 padding-right: 50%;
 font-size:24px;
 display: inline;
 flex-direction: column
 }
+.web1:visited{
+ color:blue;
+ text-decoration: none;
+}
+.web1:active{
+ color:yellow;
+ text-decoration: none;
+}
 a.web2{
  margin-left: 50%;
   font-size: 24px;
 }
-ul {
-padding-left:43%;
-list-style-type: none;
-display: inline-flex;
+.web2:visited{
+color:blue;
+text-decoration: none;
+}
+.web2:active{
+color:yellow;
+text-decoration: none;
+}
+a.web2{
+ margin-left: 50%;
+  font-size: 24px;
 }
 /*--footer--*/
 h3{
