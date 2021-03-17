@@ -77,7 +77,6 @@ ol{
 }
 li{
   margin: 10px 0;
-
 }
 /*-- contact info --*/
 h2.info{
@@ -107,5 +106,5 @@ font-weight: normal;
 padding-bottom: 40px;
 padding-top: 40px;
 font-size: 20px;
-color:#dea5a4;
+color: #dea5a4;
 }
